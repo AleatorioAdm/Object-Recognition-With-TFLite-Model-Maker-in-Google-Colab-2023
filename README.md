@@ -9,3 +9,5 @@ https://colab.research.google.com/drive/1q2EA7AOEdX3KqzYzGU0UO1Ih7tKXMHQd?usp=sh
 https://colab.research.google.com/drive/13-BVhnsrCY-hmHiYTuGRzHusmn9B6GpT?usp=sharing
 <h3>Notebook conversor de imagens para jpeg</h3>
 https://colab.research.google.com/drive/1FP3XAaQY2djgpGyZm7g4pdEkAKdpSD7y?usp=sharing
+<h3>Arquivos Públicos (APP e banco de imagens):</h3>
+https://drive.google.com/drive/folders/1c-RuoLLIFDOtDjr6KYKogaKC2sAzr-d5?usp=drive_link
